@@ -19,12 +19,12 @@ namespace WindowsFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Turn ON Successful");
+            MessageBox.Show("Turn ON Successful!");
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Turn OFF Successful");
+            MessageBox.Show("Turn OFF Successful!");
 
         }
 
